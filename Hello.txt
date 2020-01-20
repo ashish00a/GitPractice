@@ -1,1 +1,3 @@
-Hello Hexaware !
+Hello Hexaware !We are studying git.
+.
+Today is Monday.
